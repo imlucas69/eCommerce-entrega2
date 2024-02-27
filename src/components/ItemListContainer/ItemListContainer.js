@@ -1,10 +1,9 @@
-const ItemListContainer = ({greeting}) => {
+const ItemListContainer = ({ greeting }) => {
     return (
-        <div className="App">
-            <NavBar />
-            <ItemListContainer greeting={'Bienvenidos'} />
+        <div>
+            <h1>{greeting}</h1>
         </div>
-    );
+    )
 }
 
-export default App;
+export default ItemListContainer;

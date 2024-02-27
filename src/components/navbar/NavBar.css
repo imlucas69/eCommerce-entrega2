@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    background-color: pink;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar a{
+    margin: 0 40px;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a.active{
+    text-decoration: underline;
+}
+
+
+
+
+
