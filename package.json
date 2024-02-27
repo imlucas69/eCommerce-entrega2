@@ -2,7 +2,7 @@
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://imlucas069.github.io/eCommerce-entrega2/",
+  "homepage":"https://imlucas69.github.io/eCommerce-entrega2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
